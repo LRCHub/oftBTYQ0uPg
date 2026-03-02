@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Carnival",
+  "base_artist": "John Michael Howell",
+  "createdAt": "2026-03-02T01:22:12.575612Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Carnival of Souls",
+      "artist": "Jedi Mind Tricks feat. Demoz",
+      "has_synced": true,
+      "path": "select/01_Carnival_of_Souls_Jedi_Mind_Tricks_feat._Demoz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Carnival Of Souls (Feat. Demoz",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/02_Carnival_Of_Souls_(Feat._Demoz_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Carnival",
+      "artist": "Natalie Merchant",
+      "has_synced": true,
+      "path": "select/03_Carnival_Natalie_Merchant.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Carnival Is Over",
+      "artist": "Nick Cave & The Bad Seeds",
+      "has_synced": true,
+      "path": "select/04_The_Carnival_Is_Over_Nick_Cave_&_The_Bad_Seeds.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Carnival Is Over",
+      "artist": "The Seekers",
+      "has_synced": true,
+      "path": "select/05_The_Carnival_Is_Over_The_Seekers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Carnival Of Light",
+      "artist": "Dead Can Dance",
+      "has_synced": false,
+      "path": "select/06_Carnival_Of_Light_Dead_Can_Dance.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Carnival Is Over",
+      "artist": "Dead Can Dance",
+      "has_synced": false,
+      "path": "select/07_The_Carnival_Is_Over_Dead_Can_Dance.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Carnival",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/08_Carnival_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everybody Loves a Carnival",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/09_Everybody_Loves_a_Carnival_Fatboy_Slim.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Carnival of Fools",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/10_Carnival_of_Fools_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bumble Bees (Sharp Carnival Remix)",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/11_Bumble_Bees_(Sharp_Carnival_Remix)_Aqua.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Carnival of Life",
+      "artist": "Marc Almond",
+      "has_synced": true,
+      "path": "select/12_Carnival_of_Life_Marc_Almond.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Moonlight Carnival",
+      "artist": "Jermaine Stewart",
+      "has_synced": true,
+      "path": "select/13_Moonlight_Carnival_Jermaine_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Carnival",
+      "artist": "CH!PZ",
+      "has_synced": true,
+      "path": "select/14_Carnival_CH!PZ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Manha De Carnival",
+      "artist": "Astrud Gilberto",
+      "has_synced": true,
+      "path": "select/15_Manha_De_Carnival_Astrud_Gilberto.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Carnival",
+      "artist": "Somerset",
+      "has_synced": false,
+      "path": "select/16_The_Carnival_Somerset.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Carnival",
+      "artist": "The Cardigans",
+      "has_synced": true,
+      "path": "select/17_Carnival_The_Cardigans.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Carnival",
+      "artist": "John Michael Howell",
+      "has_synced": false,
+      "path": "select/pl_01_Carnival_John_Michael_Howell.txt"
+    }
+  ]
+}
